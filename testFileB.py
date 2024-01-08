@@ -1,4 +1,3 @@
-import testfileA
 def testfunB():
     testfileA.testfunA()
 
